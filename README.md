@@ -28,7 +28,7 @@ Je veux développer des compétences en développement web full-stack php pour c
 Mon projet professionnel, c'est de rejoindre une jeune entreprise afin de continuer à me former au contact de mes collaboratrices et de mes collaborateurs. À terme, je voudrais travailler à repenser le numérique, qui est de plus en plus présent dans nos vies, de manière à l'intégrer au mieux dans notre quotidien d'utilisateur. J'aimerai que petit à petit, nous puissions nous éloigner de nos écrans, retrouver un rapport plus physique et plus concret à notre environnement.
 
 
-[Me contacter] (form.html)
+[Me contacter](form.html)
 
 
 

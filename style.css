@@ -1,0 +1,90 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+form {
+	text-align: center;
+}
+
+label {
+	color: white;
+	opacity: 0.7;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight: 600;
+	margin-right: 6px;
+}
+
+input, textarea {
+	opacity: 0.7;
+	/*comment centrer vert. et hor. ?*/
+}
+
+.contactme {
+	color: white;
+	opacity: 0.6;
+}
+
+.topbun {
+	height: 90px;
+	width: 350px;
+	background-color: GoldenRod;
+	margin: auto;
+	border-radius: 250px 250px 50px 50px;
+	border-bottom: solid 9px rgba(0,0,0,.2);
+	padding-top: 40px;
+}
+
+.pickles {
+	height: 40px;
+	width: 250px;
+	background-color: green;
+	margin: auto;
+	border-radius: 200px 200px 250px 250px;
+	padding-top: 12px;
+}
+
+.tomato {
+	height: 30px;
+	width: 290px;
+	background-color: red;
+	margin: auto;
+	padding-top: 3px;
+}
+
+.onion {
+	width: 230px;
+	background-color: purple;
+	margin: auto;
+	border-top: dotted 30px MediumOrchid;
+}
+
+.portobello {
+	height: 85px;
+	width: 330px;
+	background-color: brown;
+	margin: auto;
+	border-radius: 100px 100px 20px 20px;
+	border-bottom: solid 9px rgba(255,255,255,.2);
+	padding-top: 8px;
+}
+
+.salad {
+	height: 15px;
+	width: 360px;
+	background-color: green;
+	margin: auto;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.bottombun {
+	height: 45px;
+	width: 350px;
+	background-color: GoldenRod;
+	margin: auto;
+	border-radius: 20px 20px 50px 50px;
+	border-top: solid 9px rgba(0,0,0,.2);
+	padding-top: 15px;
+}

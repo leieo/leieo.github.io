@@ -1,9 +1,10 @@
 ---
+layout: page
 permalink: index.html
 ---
 
 
-# Leïla El Omari - développeuse
+# Leïla El Omari - apprenante à Simplon.co
 
 ## Qui suis-je ?
 

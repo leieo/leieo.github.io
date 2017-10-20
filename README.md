@@ -10,9 +10,7 @@ permalink: index.html
 
 Je m'appelle Leïla.
 
-Je suis passionnée par les arts en général. 
-
-Je suis curieuse, et m'intéresse à des choses très variées, ce qui peut m'amèner à me disperser, mais m'apporte aussi polyvalence et ouverture d'esprit. Je suis perfectionniste, ce qui (selon les situations) peut s'avérer être une faiblesse ou un atout. Ma principale lacune est mon manque d'assurance. Ma plus grande force est ma persévérance.
+Passionnée par les arts en général, je suis curieuse, et m'intéresse à des choses très variées, ce qui peut m'amèner à me disperser, mais m'apporte aussi polyvalence et ouverture d'esprit. Je suis perfectionniste, ce qui (selon les situations) peut s'avérer être une faiblesse ou un atout. Ma principale lacune est mon manque d'assurance. Ma plus grande force est ma persévérance.
 
 ## Mon parcours
 

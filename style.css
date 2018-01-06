@@ -94,4 +94,6 @@ input, textarea {
 .texte {
 	text-align: center;
 	color: GoldenRod;
+	font-size: 12px;
+	padding-top: 20px;
 }

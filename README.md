@@ -29,6 +29,7 @@ Sur un plan plus personnel, j'aimerai élargir ma connaissance des technologies 
 Ma vision du futur professionnel, c'est de rejoindre un espace de travail commun, afin de continuer à me former au contact de mes pairs. 
 
 À terme je voudrais travailler à **repenser le numérique**, qui est de plus en plus présent dans nos vies, de manière à l'intégrer au mieux dans notre quotidien d'utilisateur. J'aimerai que petit à petit, nous puissions nous éloigner de nos écrans, retrouver un rapport plus **physique** et plus **concret** à notre environnement.
+
 **Revenir à l'humain, au réel.**
 
 

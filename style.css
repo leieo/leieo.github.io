@@ -101,6 +101,9 @@ input, textarea {
 .texte {
 	text-align: center;
 	color: GoldenRod;
-	font-size: 12px;
+	font-size: 10px;
 	padding-top: 50px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight: 100;
 }

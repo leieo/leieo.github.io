@@ -33,6 +33,10 @@ input.sendbutton {
 	border-top: solid 9px rgba(0,0,0,.2);
 	padding-top: 15px;
 	box-shadow:none;
+	color: white;
+	opacity: 0.8;
+	font-family: serif;
+	font-size: 16px;
 }
 
 .main {

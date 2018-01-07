@@ -24,7 +24,7 @@ input, textarea {
 	/*comment centrer vert. et hor. ?*/
 }
 
-input.bouton {
+input.button {
 	height: 45px;
 	width: 350px;
 	background-color: GoldenRod;
